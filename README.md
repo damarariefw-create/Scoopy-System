@@ -54,5 +54,5 @@ Sistem ini menggunakan logika *MultiButton* dengan batas jeda (*debounce*) sekit
 4.  **Selesai!** Dasbor pintar siap digunakan saat berkendara.
 
 ---
-**Pengembang:** Damar Arief Witjaksono  
+**Pengembang:** Damar Arief W  
 *Dikembangkan untuk eksperimen sistem IoT dan modifikasi otomotif terintegrasi.*
